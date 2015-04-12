@@ -1,0 +1,129 @@
+=={{Dil|Türkçe}}==
+==={{Söztürü|Ad|Türkçe}}===
+{{Anlamlar}}
+:[1] {{t|dokuma}} genellikle [[kıl|kıldan]] yapılmış [[kaba]] [[dokuma]]
+::''Geceleri Ali, bir çula bürünerek yatıyordu.'' - Ö. Seyfettin
+:[2] kıldan veya yünden yapılmış hayvan [[örtü|örtüsü]]
+::''Ata çul örtmek.''
+:[3] {{t|halk ağzı}} [[kıyafet]]
+
+{{Atasözler}}
+:[[Ağustosun 15'inden sonra ere kaftan, ata çul]]
+:[[Arsız neden arlanır, çul da giyer sallanır]]
+:[[Çul içinde arslan yatar]]
+:[[Küheylan at, çul içinde de bellidir]]
+
+{{Kaynaklar}}
+{{Kaynak-TDK|{{PAGENAME}}}}
+
+{{Türk Dilleri}}
+{{Üst}}
+*{{alt}}: {{çeviri|alt|}}
+*{{az}}: {{çeviri|az|}}
+*{{ba}}: {{çeviri|ba|}}
+*{{chg}}: {{çeviri|chg|}}
+*{{cv}}: {{çeviri|cv|}}
+*{{gag}}: {{çeviri|gag|}}
+*{{krc}}: {{çeviri|krc|}}
+*{{kaa}}: {{çeviri|kaa|}}
+*{{kk}}: {{çeviri|kk|}}
+*{{crh}}: {{çeviri|crh|}}
+*{{ky}}: {{çeviri|ky|}}
+{{Orta}}
+*{{qwm}}: {{çeviri|qwm|}}
+*{{kum}}: {{çeviri|kum|}}
+*{{uz}}: {{çeviri|uz|}}
+*{{cjs}}: {{çeviri|cjs|}}
+*{{tt}}: {{çeviri|tt|}}
+*{{tk}}: {{çeviri|tk|}}
+*{{tyv}}: {{çeviri|tyv|}}
+*{{ug}}: {{çeviri|ug|}}
+*{{sah}}: {{çeviri|sah|}}
+{{Alt}}
+
+{{Çeviriler}}
+{{Üst}}
+*{{af}}: [1] {{çeviri|af|}}
+*{{de}}: [1] {{çeviri|de|}}
+*{{an}}: [1] {{çeviri|an|}}
+*{{ar}}: [1] {{çeviri|ar|}}
+*{{sq}}: [1] {{çeviri|sq|}}
+*{{ay}}: [1] {{çeviri|ay|}}
+*{{eu}}: [1] {{çeviri|eu|}}
+*{{be}}: [1] {{çeviri|be|}}
+*{{br}}: [1] {{çeviri|br|}}
+*{{bs}}: [1] {{çeviri|bs|}}
+*{{bg}}: [1] {{çeviri|bg|}}
+*{{ce}}: [1] {{çeviri|ce|}}
+*{{cs}}: [1] {{çeviri|cs|}}
+*{{zh}}: [1] {{çeviri|zh|}}
+*{{da}}: [1] {{çeviri|da|}}
+*{{hy}}: [1] {{çeviri|hy|}}
+*{{eo}}: [1] {{çeviri|eo|}}
+*{{et}}: [1] {{çeviri|et|}}
+*{{fo}}: [1] {{çeviri|fo|}}
+*{{fa}}: [1] {{çeviri|fa|}}
+*{{fi}}: [1] {{çeviri|fi|}}
+*{{fr}}: [1] {{çeviri|fr|}}
+*{{fy}}: [1] {{çeviri|fy|}}
+*{{cy}}: [1] {{çeviri|cy|}}
+*{{gl}}: [1] {{çeviri|gl|}}
+*{{gn}}: [1] {{çeviri|gn|}}
+*{{gu}}: [1] {{çeviri|gu|}}
+*{{ka}}: [1] {{çeviri|ka|}}
+*{{ha}}: [1] {{çeviri|ha|}}
+*{{hr}}: [1] {{çeviri|hr|}}
+*{{hi}}: [1] {{çeviri|hi|}}
+*{{nl}}: [1] {{çeviri|nl|}}
+*{{io}}: [1] {{çeviri|io|}}
+*{{en}}: [1] {{çeviri|en|}}
+*{{ga}}: [1] {{çeviri|ga|}}
+*{{gd}}: [1] {{çeviri|gd|}}
+{{Orta}}
+*{{es}}: [1] {{çeviri|es|}}
+*{{sv}}: [1] {{çeviri|sv|}}
+*{{gsw}}: [1] {{çeviri|de|}}
+*{{it}}: [1] {{çeviri|it|}}
+*{{is}}: [1] {{çeviri|is|}}
+*{{ja}}: [1] {{çeviri|ja|}}
+*{{ca}}: [1] {{çeviri|ca|}}
+*{{qu}}: [1] {{çeviri|qu|}}
+*{{kw}}: [1] {{çeviri|kw|}}
+*{{ko}}: [1] {{çeviri|ko|}}
+*{{ku}}: [1] {{çeviri|ku|}}
+*{{la}}: [1] {{çeviri|la|}}
+*{{pl}}: [1] {{çeviri|pl|}}
+*{{lv}}: [1] {{çeviri|lv|}}
+*{{lt}}: [1] {{çeviri|lt|}}
+*{{hu}}: [1] {{çeviri|hu|}}
+*{{mg}}: [1] {{çeviri|mg|}}
+*{{mr}}: [1] {{çeviri|mr|}}
+*{{mo}}: [1] {{çeviri|mo|}}
+*{{roa}}: [1] {{çeviri|roa|}}
+*{{no}}: [1] {{çeviri|no|}}
+*{{pa}}: [1] {{çeviri|pa|}}
+*{{pt}}: [1] {{çeviri|pt|}}
+*{{ro}}: [1] {{çeviri|ro|}}
+*{{ru}}: [1] {{çeviri|ru|}}
+*{{sa}}: [1] {{çeviri|sa|}}
+*{{sr}}: [1] {{çeviri|sr|}}
+*{{sk}}: [1] {{çeviri|sk|}}
+*{{sl}}: [1] {{çeviri|sl|}}
+*{{so}}: [1] {{çeviri|so|}}
+*{{su}}: [1] {{çeviri|su|}}
+*{{sn}}: [1] {{çeviri|sn|}}
+*{{uk}}: [1] {{çeviri|uk|}}
+*{{vec}}: [1] {{çeviri|vec|}}
+*{{yo}}: [1] {{çeviri|yo|}}
+*{{el}}: [1] {{çeviri|el|}}
+{{Alt}}
+{{Köken}}
+:[1] {{köken|İngilizce}} Türkçeye, İngilizce 'empathy' veya bunun Fransızca uyarlaması olan 'empathie' biçiminden girmiştir. Yunanca &quot;'En-&quot;' (&quot;iç, içine, içinde&quot;) ve &quot;'-patheia&quot;' (&quot;duygu, acı, hissetme, algılama anlamındadır ve Yunanca [[paskhein]] fiilinin perfekt kökü olan [[path-]] biriminden gelir&quot;) kelimelerinin birleşmesiyle oluşmuştur. İngilizce sözcük 1930 dolayında Sigmund Freud'un teknik bir terim olarak kullandığı Almanca [[Einfühlung]] sözcüğünün çevirisi olarak türetilmiştir.
+
+{{Eş Anlamlılar}}
+:[1] [[duygudaşlık]], [[anlayış]], [[duyarlılık]], [[kendimseme]]
+
+=={{Dil|Farsça}}==
+awdada
+awdawdawdwd
+awda awdawawd
